@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "270950280386",
+    "firebase_url": "https://memorizes-68032.firebaseio.com",
+    "project_id": "memorizes-68032",
+    "storage_bucket": "memorizes-68032.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270950280386:android:0ce26778810f12fd399f5b",
+        "android_client_info": {
+          "package_name": "com.example.ramazanaltun.memorize_on_your_own"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270950280386-07ecpk217ecj7j7cn9bg3o6j1tdk7b8e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ramazanaltun.memorize_on_your_own",
+            "certificate_hash": "19e715048e18d268202826f5ae79faa8037ad4a2"
+          }
+        },
+        {
+          "client_id": "270950280386-5j1170i6on8fjq3i6b5knn5frj18ejgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA85ALRLYOqE5SXsW5LTofjdEOQdF7zJC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270950280386-5j1170i6on8fjq3i6b5knn5frj18ejgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
